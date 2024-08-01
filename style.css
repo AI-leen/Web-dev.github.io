@@ -35,7 +35,7 @@ h1:hover {
 }
 .text2 {
     color: whitesmoke;
-    bottom: 10%;
+    bottom: 100px;
     position: absolute;
     font-family: Quicksand;
     font-size: 200%;
@@ -48,6 +48,6 @@ h1:hover {
     text-shadow: 2px 2px black;
 }
 @keyframes show2 {
-    from{opacity: 0%; bottom: 10%;}
-    to{opacity: 100%; bottom: 0%;}
+    from{opacity: 0%; bottom: 100px;}
+    to{opacity: 100%; bottom: 50px;}
 }
